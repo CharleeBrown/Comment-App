@@ -6,14 +6,6 @@ Imports System.Runtime
 Public Class Form1
 
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles NameBox.TextChanged
-
-    End Sub
-
-    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles CommentBox.TextChanged
-
-    End Sub
-
     Private Sub SaveBtn_Click(sender As Object, e As EventArgs) Handles SaveBtn.Click
         ' Database connection settings
         Dim settings As MongoClientSettings

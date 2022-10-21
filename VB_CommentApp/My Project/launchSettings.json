@@ -1,10 +1,7 @@
 {
   "profiles": {
     "VB_CommentApp": {
-      "commandName": "Project",
-      "environmentVariables": {
-        "pwd": "Gamez2232"
-      }
+      "commandName": "Project"
     }
   }
 }
